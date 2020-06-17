@@ -15,6 +15,6 @@ class Tree{
   }
   static definition(){
     super(this.definition)
-    return 
+    return `Deciduous trees shed their leaves annually.`
   }
  }
